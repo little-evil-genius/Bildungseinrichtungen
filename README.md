@@ -39,29 +39,24 @@ Hinzugefügte Tabellen:
 - euerforum.de/modcp.php?action=education
 
 # Demo
-Clubübersicht
-  <img src="https://www.bilder-hochladen.net/files/big/m4bn-8x-511a.png" />
+Bildungseinrichtungen-Übersicht
+  <img src="https://www.bilder-hochladen.net/files/big/m4bn-9m-c00c.png" />
   
 Maske beim Hinzufügen
-  <img src="https://www.bilder-hochladen.net/files/big/m4bn-8y-39e1.png" />
+  <img src="https://www.bilder-hochladen.net/files/big/m4bn-9n-78ba.png" />
   
 Team-Alert auf dem Index
   <img src="https://www.bilder-hochladen.net/files/m4bn-90-bb70.png" />
   
 Mod-CP
-  <img src="https://www.bilder-hochladen.net/files/big/m4bn-93-dcdb.png" />
+  <img src="https://www.bilder-hochladen.net/files/big/m4bn-9r-9963.png" />
   
-Club beitreten mit Position
-
-  <img src="https://www.bilder-hochladen.net/files/m4bn-92-5a1d.png" />
+Bildungseinrichtung beitreten
+  <img src="https://www.bilder-hochladen.net/files/m4bn-9q-25ce.png" />
   
-Club bearbeiten
-  <img src="https://www.bilder-hochladen.net/files/big/m4bn-91-f756.png" />
-  
-Clubs im Profil
-  <img src="https://www.bilder-hochladen.net/files/m4bn-94-09ac.png" />
-  <img src="https://www.bilder-hochladen.net/files/m4bn-95-57d1.png" />
+Bildungseinrichtung bearbeiten
+  <img src="https://www.bilder-hochladen.net/files/big/m4bn-9p-6d4b.png" />
 
 Alerts Beanachrichtigung
 
-  <img src="https://www.bilder-hochladen.net/files/m4bn-8w-d2ec.png" />
+  <img src="https://www.bilder-hochladen.net/files/m4bn-9o-7698.png" />
