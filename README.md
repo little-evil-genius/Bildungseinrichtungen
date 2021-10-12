@@ -46,7 +46,7 @@ Maske beim Hinzufügen
   <img src="https://www.bilder-hochladen.net/files/big/m4bn-9n-78ba.png" />
   
 Team-Alert auf dem Index
-  <img src="https://www.bilder-hochladen.net/files/m4bn-90-bb70.png" />
+  <img src="https://www.bilder-hochladen.net/files/m4bn-9s-5538.png" />
   
 Mod-CP
   <img src="https://www.bilder-hochladen.net/files/big/m4bn-9r-9963.png" />
